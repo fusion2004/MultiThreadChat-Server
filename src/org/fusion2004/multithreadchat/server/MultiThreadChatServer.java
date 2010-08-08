@@ -1,3 +1,5 @@
+package org.fusion2004.multithreadchat.server;
+
 import java.io.*;
 import java.net.*;
 
