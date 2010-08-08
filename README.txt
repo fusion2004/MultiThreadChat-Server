@@ -1,6 +1,8 @@
 MultiThreadChat Server
 by fusion2004
 
+This repo is the entire Netbeans project structure.
+
 Based off of MultiThreadChatServer by Anatol Ursu <http://www.ase.md/~aursu/ClientServerThreads.html>.
 
 Notes:
