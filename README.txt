@@ -1,0 +1,7 @@
+MultiThreadChat Server
+by fusion2004
+
+Based off of MultiThreadChatServer by Anatol Ursu <http://www.ase.md/~aursu/ClientServerThreads.html>.
+
+Notes:
+Current version requires client to send a "/quit" before disconnecting in order to prevent any errors.
